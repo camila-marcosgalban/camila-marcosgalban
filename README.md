@@ -44,7 +44,7 @@ One thing that I love about the world of programming is the fact that it's so wi
 
 **Version control:** Git & Github
 
-(https://github.com/camila-marcosgalban/camila-marcosgalban/blob/main/giphy.gif?raw=true)
+![img](https://github.com/camila-marcosgalban/camila-marcosgalban/blob/main/giphy.gif?raw=true)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilamarcosgalban/)
