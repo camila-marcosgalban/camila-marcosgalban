@@ -10,7 +10,7 @@ I'm a full stack developer and multimedia designer.
 
 I like painting, drawing and design, which I consider adds a creative side to my profile.
 
-👩‍🎓 I studied Multimedia Design at Primera Escula DaVinci, not long after I graduated, I focus on developing my skills, such as HTML5, CSS, Javascript, React, Redux, NodeJs, Express, Sequelize and PostgreSQL.
+👩‍🎓 I studied Multimedia Design at Primera Escula DaVinci, not long after I graduated, I focused on developing my skills, such as HTML5, CSS, Javascript, React, Redux, NodeJs, Express, Sequelize and PostgreSQL.
 
 I have a passion for Front-end develpment, which I belive comes from my creative side and my interest in programming.
 
